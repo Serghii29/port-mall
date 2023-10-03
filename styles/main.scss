@@ -1,0 +1,15 @@
+@import '../public/Ordina-Regular/style.css';
+@import './variables';
+
+* {
+  transition: all $transitionDuration;
+}
+
+body {
+  font-family: 'Ordina Regular' sans-serif;
+  // -webkit-font-smoothing: antialiased;
+  // -moz-osx-font-smoothing: grayscale;
+  color: $Light;
+  background: $dark;
+  box-sizing: border-box;
+}
