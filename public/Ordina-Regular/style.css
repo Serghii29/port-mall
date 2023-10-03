@@ -1,9 +1,11 @@
 @font-face {
-    font-family: 'Ordina';
-    src: local('Ordina Regular'), local('Ordina-Regular'),
-        url('Ordina-Regular.woff2') format('woff2'),
-        url('Ordina-Regular.woff') format('woff'),
-        url('Ordina-Regular.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-  }
+  font-family: 'Ordina';
+  src:
+    local('Ordina Regular'),
+    local('Ordina-Regular'),
+    url('Ordina-Regular.woff2') format('woff2'),
+    url('Ordina-Regular.woff') format('woff'),
+    url('Ordina-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
