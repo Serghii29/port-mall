@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ordina';
+    src: local('Ordina Medium'), local('Ordina-Medium'),
+        url('Ordina-Medium.woff2') format('woff2'),
+        url('Ordina-Medium.woff') format('woff'),
+        url('Ordina-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
