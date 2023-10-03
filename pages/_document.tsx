@@ -1,8 +1,5 @@
 import {
-  Html,
-  Head,
-  Main,
-  NextScript,
+  Html, Head, Main, NextScript,
 } from 'next/document';
 import React from 'react';
 
